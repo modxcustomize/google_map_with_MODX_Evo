@@ -30,6 +30,6 @@ A document can serve as a MAP center point and it's child documents can serve as
 MODX Evolution CMS
 
 ## Community
-- ** Find a bug?** [Open an issue](https://github.com/modxcustomize/ xxx /issues). Try to be as specific as possible.
-- ** Have a feature request** [Open an issue](https://github.com/modxcustomize/ xxx/issues). Tell me why this feature would be useful, and why you and others would want it.
+- ** Find a bug?** [Open an issue](https://github.com/modxcustomize/google_map_with_MODX_Evo/issues). Try to be as specific as possible.
+- ** Have a feature request** [Open an issue](https://github.com/modxcustomize/https://github.com/modxcustomize/google_map_with_MODX_Evo/issues). Tell me why this feature would be useful, and why you and others would want it.
 
