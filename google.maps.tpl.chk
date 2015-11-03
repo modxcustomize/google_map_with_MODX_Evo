@@ -1,0 +1,7 @@
+storeLocatorMarkers.push({
+        position: new google.maps.LatLng([+latitude+], [+longitude+]),
+		html: unescape('[+content+]'), 
+        icon: new google.maps.MarkerImage('[*markerImage*]'),
+title: '  [+pagetitle+] '
+ 
+});
